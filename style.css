@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
+
+*{
+    text-align: center;
+}
+
+header{
+    background-image: url("fundo.jpg");
+    height: 100px;
+    font-size: 40px;
+    font-family: 'Sail', cursive;
+    color: white;
+    padding-top: 25px;
+}
+
+body{
+    background-image: url("fundo.jpg");
+}
+
+#div_esq{
+    background-color: white;
+    min-height: 200px;
+    width: 30%;
+    float: left;
+    margin: 0px, auto, 0px, auto;
+}
+
+#div_dir{
+    background-color: white;
+    min-height: 200px;
+    width: 70%;
+    float: right;
+    margin: 0px, auto, 0px, auto;
+}
+
+footer{
+    clear: both;
+    background-image: url("fundo.jpg");
+    height: 100px;
+    padding-top: 30px;
+    color: white;
+}

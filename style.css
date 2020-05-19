@@ -17,11 +17,12 @@ body{
     background-image: url("fundo.jpg");
 }
 
-body div.inicial{
+div.inicial{
     background-color: white;
     min-height: 200px;
-    margin: 100px, auto, 0px, auto;
-    width: 800px;
+    margin: 100px, 100px, 0px, 80px;
+    color: black;
+    padding: 20px;
 }
 
 footer{

@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image: url("fundo.jpg");
+    background-image: url("/imagens/fundo.jpg");
     height: 100px;
     font-size: 40px;
     font-family: 'Sail', cursive;
@@ -14,7 +14,7 @@ header{
 }
 
 body{
-    background-image: url("fundo.jpg");
+    background-image: url("/imagens/fundo.jpg");
 }
 
 #div_esq{
@@ -35,7 +35,7 @@ body{
 
 footer{
     clear: both;
-    background-image: url("fundo.jpg");
+    background-image: url("/imagens/fundo.jpg");
     height: 100px;
     padding-top: 30px;
     color: white;

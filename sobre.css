@@ -22,14 +22,6 @@ body{
     background-image: url("fundo.jpg");
 }
 
-div.inicial{
-    background-color: white;
-    min-height: 200px;
-    margin: 100px, 100px, 0px, 80px;
-    color: black;
-    padding: 20px;
-}
-
 footer{
     clear: both;
     background-image: url("fundo.jpg");

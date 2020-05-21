@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Sail&display=swap');
 
 *{
     text-align: center;
@@ -20,6 +20,51 @@ a#nomenavbar{
 
 body{
     background-image: url("fundo.jpg");
+}
+
+div.body{
+    background-image: url("fundo.jpg");
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+div.interface{
+    display: block;
+    background-color: white;
+    min-height: 200px;
+    margin: 100px, 20px, 0px, 20px;
+    padding: 20px;
+    padding: 20px;
+    width: 1200px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 4px 10px #9a989c;
+}
+
+div.card{
+    justify-content: center;
+    margin: auto;
+}
+
+h1#inicio{
+    border-bottom: 1px solid #2e282e;
+    text-align: left;
+    font-size: 25pt;
+    font-family: 'Bree Serif', serif;
+}
+
+.card-header{
+    font-weight: bold;
+}
+
+.card-group{
+    width: 600px;
+    margin: auto;
+}
+
+.card-title{
+    font-weight: bold;
 }
 
 footer{

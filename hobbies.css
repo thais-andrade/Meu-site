@@ -62,17 +62,11 @@ li{
     font-size: 16pt; 
 }
 
-#imagem1{
-    position: absolute;
-    left: 1200px;
-    top: 350px;
-}
+
 
 #imagem2{
-    position: absolute;
-    left: 1200px;
-    top: 700px;
     border: 1px solid #2e282e;
+    
 }
 
 body{
